@@ -1,6 +1,16 @@
 ![MasterHead](https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.medium_2x.gif)
 <h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
+
+ - 💪 Intend to build a career with leading corporate of stimulating environment which will help me to explore myself fully and realize my potential. <br>
+ - 💻 I am working as Software Engineer for the past 2+ year<br>
+ - 📽 I have worked on LMS learner as well as admin dashboard functionality for UI<br>
+ - 🧑‍🎓 I have completed my B-Tech from the National Institute of Technology Uttarakhand in Computer Science and Engineering<br>
+ - 😊 Hobbies 
+     * 📺 Watching TV Series   
+     * ⚽️ Vollybol  
+     * 👀 Net Surfing
+     
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/size/w1920/2021/07/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyaml1319&label=Profile%20views&color=0e75b6&style=flat" alt="shyaml1319" /> </p>
