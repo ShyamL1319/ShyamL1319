@@ -60,6 +60,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shyaml1319&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shyaml1319&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> </p>
 
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shyaml1319&repo=leetcode-practice&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<!-- <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shyaml1319&repo=coding-practice&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> -->
+
+
 ---
 <p align="center"> © 2022 Shyam Lal, all rights reserved. Made with ❤️ . </p>
 <p align="center">
