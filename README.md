@@ -17,8 +17,6 @@
 
 <p align="left"> <a href="https://twitter.com/shyamlalchauha1" target="blank"><img src="https://img.shields.io/twitter/follow/shyamlalchauha1?logo=twitter&style=for-the-badge" alt="shyamlalchauha1" /></a> </p>
 
-- 🔭 I’m currently working on **Chat Application**
-
 - 🌱 I’m currently learning **Java SpringBoot,**
 
 - 💬 Ask me about **MEAN**
