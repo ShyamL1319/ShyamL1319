@@ -23,17 +23,17 @@
 name        : Shyam Lal
 title       : Principal Engineer — Applications Development
 location    : Gurgaon, India
-experience  : 5+ Years in Full-Stack & Cloud Engineering
+experience  : 5.6+ Years in Full-Stack & Cloud Engineering
 education   : B.Tech CSE — NIT Uttarakhand (2020)
 focus       : Scalable Systems · API Architecture · Cloud-Native Apps
 ```
 
 I'm a **Principal Engineer** at **Marsh McLennan** specialising in full-stack development with the MEAN stack, Java Spring Boot, and AWS cloud infrastructure. I architect and deliver enterprise-grade microservices, RESTful APIs, and event-driven systems that serve millions of users. I'm passionate about writing clean, testable, high-performance code and helping teams level up through mentorship and code quality practices.
 
-- 🏗️ Designed and shipped **25+ production RESTful APIs** and gRPC microservices at enterprise scale
-- ☁️ Deep hands-on experience with **AWS** (S3, SQS, SNS, Lambda, CloudFront, API Gateway)
+- 🏗️ Designed and shipped **25+ production RESTful APIs** and microservices at enterprise scale
+- ☁️ Deep hands-on experience with **AWS** (S3, SQS, SNS, Lambda, CloudFront) and container orchestration with **Kubernetes**
 - 🔐 Strong focus on **security-first engineering** — OWASP, JWT, RBAC, multi-tenant design
-- 🤖 Active user of **AI-assisted development** (GitHub Copilot, ChatGPT, Cursor) to accelerate delivery
+- 🤖 Active user of **AI-assisted development** (GitHub Copilot, ChatGPT) to accelerate delivery and maintain code quality
 - 🧑‍🏫 Mentor to junior engineers — passionate about code reviews, documentation, and technical growth
 - 🏆 **Star of the Month** @ Marsh McLennan | **Best Employee of the Quarter** @ Simplilearn
 
@@ -54,29 +54,31 @@ I'm a **Principal Engineer** at **Marsh McLennan** specialising in full-stack de
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Testing & Tools
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -85,20 +87,23 @@ I'm a **Principal Engineer** at **Marsh McLennan** specialising in full-stack de
 ### 🏢 Marsh McLennan — *Principal Engineer, Applications Development*
 `Mar 2023 – Present` · Gurugram
 
-- Spearheaded full-stack development using MEAN stack (Angular, Node.js, MongoDB) and Java Spring Boot for enterprise-level applications
-- Designed and delivered **25+ RESTful APIs** and gRPC-based microservices enabling high-performance inter-service communication
-- Architected asynchronous, event-driven pipelines using **AWS SQS & SNS**; deployed infrastructure via **Terraform**
-- Enforced **OWASP security principles** including input validation, rate limiting, and secure API authentication
-- Led Agile/SAFe sprint ceremonies, mentored junior engineers, and established team-wide code review standards
-- Improved application performance by **5%** through Angular lazy loading, polling optimizations, and code refactoring
+- Architected and delivered full-stack features across Angular frontend and Node.js/Spring Boot backend, owning end-to-end development from grooming to production release within a **SAFe Agile** environment
+- Designed and implemented **25+ RESTful APIs** enabling efficient communication between Angular front-end and distributed backend microservices; documented API contracts and database schemas for cross-team alignment
+- Leveraged AI-assisted development tools including **GitHub Copilot** and **ChatGPT** to optimize code generation, debugging, and PR review cycles — reducing development turnaround by **~20%**
+- Wrote comprehensive unit tests and integrated **Playwright**-based automation scripts to establish regression-free release pipelines across multiple product features
+- Improved application performance by **5%** through Angular lazy loading, code refactoring, polling optimizations, and continuous monitoring of performance metrics
+- Conducted structured code reviews and mentored junior engineers on REST API design, **OWASP** security principles, and frontend-backend integration best practices
+- Collaborated with Product Owners and Architects during sprint grooming sessions to translate business requirements into technical specifications and deliver features with expected quality
 
 ### 🏢 Simplilearn — *Software Development Engineer (Backend)*
 `Aug 2020 – Feb 2023` · Bengaluru
 
-- Built and maintained **3+ MEAN stack** web applications for diverse enterprise clients
-- Developed Notification and Authentication microservices with Java Spring Boot and integrated **OKTA / Google SSO**
-- Designed responsive Angular (HTML5/CSS3) frontends; collaborated closely with UI/UX teams
-- Implemented JWT-based auth, RBAC, and OWASP-aligned security across all services
+- Built and maintained **3+ full-stack MEAN stack** applications, contributing to both Angular frontend interfaces and Node.js/Spring Boot backend services within a **Scrum/Kanban** delivery model
+- Developed RESTful APIs and Notification/Authentication microservices using Java, Spring Boot, and Node.js; integrated **Oracle** and **MongoDB** databases to support multi-client data workflows
+- Designed responsive **HTML5/CSS3** front-end components in Angular, collaborating with UI/UX designers to ensure pixel-accurate, accessible interfaces
+- Implemented OWASP-aligned security protocols including **JWT** authentication, role-based authorization, and input validation to protect applications from injection and brute-force threats
+- Contributed to CI/CD pipeline maintenance and applied **Git** branching strategies (GitFlow) to support parallel feature development and automated deployment
+- Supported team productivity by onboarding AI-assisted coding tools and conducting knowledge-transfer sessions for junior developers
 
 ---
 
