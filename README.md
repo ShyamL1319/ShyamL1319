@@ -126,15 +126,20 @@ I'm a **Principal Engineer** at **Marsh McLennan** specialising in full-stack de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShyamL1319&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="Shyam's GitHub Stats" />
+<!-- Stats + Commit Activity -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShyamL1319&theme=tokyonight" alt="Shyam's GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShyamL1319&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ShyamL1319&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+<!-- Repos per Language + Most Commit Language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShyamL1319&theme=tokyonight" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShyamL1319&theme=tokyonight" alt="Most Commit Language" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamL1319&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<!-- Full profile summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShyamL1319&theme=tokyonight" alt="Profile Summary" />
 
 </div>
 
