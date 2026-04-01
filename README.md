@@ -121,11 +121,15 @@ I'm a **Principal Engineer** at **Marsh McLennan** specialising in full-stack de
 
 <div align="center">
 
-![Shyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShyamL1319&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ShyamL1319&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="Shyam's GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShyamL1319&theme=tokyonight&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamL1319&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact)
+<img src="https://streak-stats.demolab.com?user=ShyamL1319&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamL1319&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
