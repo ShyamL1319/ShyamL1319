@@ -154,6 +154,10 @@ I'm a **Principal Engineer** at **Marsh McLennan** specialising in full-stack de
 
 ---
 
+
+## GitHub Roast score card
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/shyaml1319)](https://ghfind.com/u/shyaml1319?ref=badge)
+
 ## 🌐 Find Me Online
 
 <div align="center">
