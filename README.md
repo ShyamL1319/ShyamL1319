@@ -1,47 +1,102 @@
+<!-- ═══════════════════════════  DYNAMIC HEADER  ═══════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A5276,100:2E86C1&height=220&section=header&text=Shyam%20Lal&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20II%20%7C%20Full-Stack%20%7C%20Cloud-Native%20%7C%20Microservices&descAlignY=58&descColor=AED6F1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1B2A,50:1A5276,100:2E86C1&height=280&section=header&text=Shyam%20Lal&fontSize=80&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&desc=Software%20Engineer%20II%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Cloud-Native%20%E2%80%A2%20Microservices&descAlignY=62&descColor=AED6F1&descSize=20" width="100%"/>
 </div>
 
+<!-- ═══════════════════════  TYPING ANIMATION  ═══════════════════════════ -->
 <div align="center">
-  <a href="https://github.com/ShyamL1319"><img src="https://komarev.com/ghpvc/?username=ShyamL1319&label=Profile%20Views&color=1A5276&style=flat-square" alt="Profile Views"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/shyamlal1319/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://www.leetcode.com/shyam1319"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>&nbsp;
-  <a href="https://medium.com/@sshyamlalchauhan"><img src="https://img.shields.io/badge/Medium-Blog-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
-  <a href="mailto:sshyamlalchauhan@gmail.com"><img src="https://img.shields.io/badge/Email-sshyamlalchauhan%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2E86C1&center=true&vCenter=true&multiline=false&width=800&lines=Software+Engineer+II+%40+7-Eleven+Global+Solution+Center;6%2B+Years+%7C+Full-Stack+%7C+Cloud-Native+%7C+Microservices;Node.js+%7C+NestJS+%7C+Java+Spring+Boot+%7C+React+%7C+Angular;AWS+Lambda+%7C+SQS+%7C+S3+%7C+ECS+Fargate+%7C+CloudFront;25%2B+Production+APIs+%7C+Security-First+%7C+SAFe+Agile" alt="Typing SVG"/>
+  </a>
 </div>
 
 <br/>
 
+<!-- ════════════════════════════  BADGE STRIP  ════════════════════════════ -->
 <div align="center">
-  <em>🚀 <strong>6+ years</strong> delivering <strong>scalable</strong>, <strong>secure</strong>, <strong>cloud-native</strong> solutions with <strong>Node.js</strong>, <strong>NestJS</strong>, <strong>Java Spring Boot</strong>, <strong>React</strong>, <strong>Angular</strong> &amp; <strong>AWS</strong></em>
+  <a href="https://github.com/ShyamL1319"><img src="https://komarev.com/ghpvc/?username=ShyamL1319&label=Profile%20Views&color=1A5276&style=for-the-badge" alt="Profile Views"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/shyamlal1319/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.leetcode.com/shyam1319"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>&nbsp;
+  <a href="https://medium.com/@sshyamlalchauhan"><img src="https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
+  <a href="mailto:sshyamlalchauhan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════  ABOUT ME  ══════════════════════════════════ -->
+## 👨‍💼 About Me
+
+<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+```yaml
+╔══════════════════════════════════════════════════╗
+  👤  Shyam Lal
+  💼  Software Engineer II
+  🏙️  7-Eleven Global Solution Center · Bangalore
+  🏢  Ex-Principal Engineer @ Marsh McLennan
+  ⏱️  6+ Years | Full-Stack · Cloud-Native
+  🎓  B.Tech CSE — NIT Uttarakhand (2020)
+  🌐  Node.js · NestJS · React · Angular · AWS
+  🔭  Focus: Scalable APIs · Microservices
+              Event-Driven · Multi-Tenant Systems
+╚══════════════════════════════════════════════════╝
+```
+
+### 🚀 What I Do
+
+I'm a **Software Engineer II** at **7-Eleven Global Solution Center** with **6+ years** crafting enterprise-grade web applications, distributed microservices, and serverless backend systems. I specialize in **high-throughput RESTful APIs**, **event-driven architectures**, and **multi-tenant platforms** — owning the entire lifecycle from system design and CI/CD pipelines to production deployment and support across **Agile & SAFe** environments.
+
+<br clear="right"/>
+
+### 🌟 Key Highlights
+
+<table>
+  <tr>
+    <td>🏗️</td>
+    <td><strong>25+ Production APIs</strong> — Designed & shipped RESTful APIs and microservices at enterprise scale</td>
+  </tr>
+  <tr>
+    <td>☁️</td>
+    <td><strong>AWS Expert</strong> — Lambda, SQS, Bedrock, S3, CloudFront, Batch, ECR, ECS Fargate, IAM</td>
+  </tr>
+  <tr>
+    <td>🔐</td>
+    <td><strong>Security-First</strong> — OWASP, JWT, RBAC, multi-tenant design baked into every system</td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td><strong>AI-Augmented Engineering</strong> — GitHub Copilot + ChatGPT accelerating delivery by <strong>~20%</strong></td>
+  </tr>
+  <tr>
+    <td>🧪</td>
+    <td><strong>Zero-Regression Pipelines</strong> — Playwright, Jest & Jasmine automated testing suites</td>
+  </tr>
+  <tr>
+    <td>🧑‍🏫</td>
+    <td><strong>Engineering Mentor</strong> — Code reviews, documentation, and growing junior talent</td>
+  </tr>
+  <tr>
+    <td>🏆</td>
+    <td><strong>Star of the Month</strong> @ Marsh McLennan &nbsp;|&nbsp; <strong>Best Employee of the Quarter</strong> @ Simplilearn</td>
+  </tr>
+</table>
+
+---
+
+<!-- ══════════════════════════  METRICS STRIP  ════════════════════════════ -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-1A5276?style=for-the-badge&logo=clockify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/APIs%20Shipped-25%2B-2E86C1?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Services-10%2B-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Productivity-~20%25%20Faster-7D3C98?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Performance%20Gain-5%25-27AE60?style=for-the-badge&logo=speedtest&logoColor=white"/>
 </div>
 
 ---
 
-## 👨‍💼 About Me
-
-```yaml
-name        : Shyam Lal
-title       : Software Engineer II
-company     : 7-Eleven Global Solution Center · Bangalore, India
-previous    : Principal Engineer — Applications Development @ Marsh McLennan
-experience  : 6+ Years | Full-Stack · Cloud-Native · Distributed Systems
-education   : B.Tech CSE — NIT Uttarakhand (2020)
-focus       : Scalable APIs · Microservices · Event-Driven · Multi-Tenant Architectures
-```
-
-I'm a **Software Engineer II** at **7-Eleven Global Solution Center** with **6+ years** of experience engineering scalable enterprise web applications, distributed microservices, and serverless backend systems. I specialize in architecting **high-throughput RESTful APIs**, **event-driven integrations**, and **multi-tenant architectures** across **Agile and SAFe environments** — owning the full lifecycle from system design and CI/CD to production deployment and support.
-
-- 🏗️ Designed & shipped **25+ production RESTful APIs** and microservices at enterprise scale
-- ☁️ Extensive hands-on with **AWS** — Lambda, SQS, Bedrock, S3, CloudFront, Batch, ECR, ECS Fargate, IAM
-- 🔐 Security-first engineering — **OWASP, JWT, RBAC, multi-tenant design**
-- 🤖 Active practitioner of **AI-assisted development** (GitHub Copilot, ChatGPT) — accelerating delivery by **~20%**
-- 🧪 Zero-regression pipelines via **Playwright, Jest & Jasmine** automated testing
-- 🧑‍🏫 Mentor to junior engineers — passionate about code reviews, documentation & technical growth
-- 🏆 **Star of the Month** @ Marsh McLennan &nbsp;|&nbsp; **Best Employee of the Quarter** @ Simplilearn
-
----
-
+<!-- ══════════════════════════  TECH STACK  ══════════════════════════════ -->
 ## 🛠️ Tech Stack
 
 ### Languages & Front-end
@@ -70,6 +125,8 @@ I'm a **Software Engineer II** at **7-Eleven Global Solution Center** with **6+ 
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda"/>
   <img src="https://img.shields.io/badge/Amazon%20SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white" alt="SQS"/>
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Bedrock"/>
+  <img src="https://img.shields.io/badge/ECS%20Fargate-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white" alt="ECS Fargate"/>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
@@ -98,6 +155,7 @@ I'm a **Software Engineer II** at **7-Eleven Global Solution Center** with **6+ 
 
 ---
 
+<!-- ══════════════════════════  EXPERIENCE  ══════════════════════════════ -->
 ## 💼 Professional Experience
 
 ### 🏢 7-Eleven Global Solution Center — **Software Engineer II**
@@ -131,6 +189,7 @@ I'm a **Software Engineer II** at **7-Eleven Global Solution Center** with **6+ 
 
 ---
 
+<!-- ══════════════════════════  FEATURED PROJECT  ════════════════════════ -->
 ## 🚀 Featured Project
 
 ### 📁 [File Management System](https://github.com/ShyamL1319/)
@@ -146,21 +205,32 @@ I'm a **Software Engineer II** at **7-Eleven Global Solution Center** with **6+ 
 
 ---
 
+<!-- ══════════════════════════  GITHUB STATS  ════════════════════════════ -->
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShyamL1319&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShyamL1319&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShyamL1319&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShyamL1319&theme=tokyonight" alt="Most Commit Language"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShyamL1319&theme=tokyonight" alt="Profile Summary"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShyamL1319&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamL1319&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShyamL1319&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShyamL1319&theme=tokyonight" width="90%" alt="Profile Summary"/>
 </div>
 
 ---
 
+<!-- ══════════════════════════  ACHIEVEMENTS  ════════════════════════════ -->
 ## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShyamL1319&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="Trophies"/>
+</div>
+
+<br/>
 
 | Award | Organisation | Year |
 |---|---|---|
@@ -169,6 +239,7 @@ I'm a **Software Engineer II** at **7-Eleven Global Solution Center** with **6+ 
 
 ---
 
+<!-- ══════════════════════════  FIND ME ONLINE  ══════════════════════════ -->
 ## 🌐 Find Me Online
 
 <div align="center">
@@ -182,8 +253,11 @@ I'm a **Software Engineer II** at **7-Eleven Global Solution Center** with **6+ 
 
 ---
 
+<!-- ════════════════════════════  FOOTER  ════════════════════════════════ -->
 <div align="center">
-  <em>"First, solve the problem. Then, write the code." — John Johnson</em>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1A5276&height=100&section=footer" width="100%"/>
+  <em>⚡ "First, solve the problem. Then, write the code." — John Johnson</em>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1A5276&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=AED6F1&fontAlignY=70" width="100%"/>
 </div>
