@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════  DYNAMIC HEADER  ═══════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1B2A,50:1A5276,100:2E86C1&height=280&section=header&text=Shyam%20Lal&fontSize=80&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&desc=Software%20Engineer%20II%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Cloud-Native%20%E2%80%A2%20Microservices&descAlignY=62&descColor=AED6F1&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0A0A0A,40:0D0221,70:1B0045,100:00D4FF&height=300&section=header&text=Shyam%20Lal&fontSize=82&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&desc=Software%20Engineer%20II%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Cloud-Native%20%E2%80%A2%20AWS%20Expert&descAlignY=67&descColor=00D4FF&descSize=19" width="100%"/>
 </div>
 
 <!-- ═══════════════════════  TYPING ANIMATION  ═══════════════════════════ -->
